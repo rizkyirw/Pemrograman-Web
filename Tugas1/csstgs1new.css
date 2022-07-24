@@ -1,0 +1,18 @@
+.tabel{
+    width: 50%;
+    border-collapse: collapse;
+    margin: auto;
+    padding: auto;
+    text-align: left;
+    background-color: rgb(230, 230, 230);
+}
+.kolom_atas{
+    height: 40px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    background-color: rgb(189, 188, 188);
+}
+tr:hover{
+    background-color: whitesmoke;
+}
