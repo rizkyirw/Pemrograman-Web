@@ -1,3 +1,3 @@
-# kuliah
+# Web Programing using PHP
 Kodingan Saat Kuliah
-Berisi Program Web
+Berisi Program inventaris barang
